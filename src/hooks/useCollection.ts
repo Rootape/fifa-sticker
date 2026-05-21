@@ -77,7 +77,19 @@ export function useCollection() {
     });
   }, []);
 
-  return { entries, loaded, getEntry, setEntry, toggleOwned, increment };
+  const replaceEntries = useCallback((next: CollectionEntry[]) => {
+    setEntries(next);
+  }, []);
+
+  return {
+    entries,
+    loaded,
+    getEntry,
+    setEntry,
+    toggleOwned,
+    increment,
+    replaceEntries,
+  };
 }
 
 export type UseCollectionReturn = ReturnType<typeof useCollection>;

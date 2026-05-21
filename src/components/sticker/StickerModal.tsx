@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Sticker } from "@/types";
+import { ModalPortal } from "@/components/layout/ModalPortal";
 
 type Props = {
   sticker: Sticker;
@@ -44,18 +45,19 @@ export function StickerModal({
   const dec = () => setQuantity((q) => Math.max(1, q - 1));
 
   return (
+    <ModalPortal>
     <div
       role="dialog"
       aria-modal="true"
-      className="fixed inset-0 z-50 flex items-end md:items-center justify-center p-4 animate-overlay-in"
+      className="fixed inset-0 z-50 flex items-end md:items-center justify-center p-0 md:p-4 animate-overlay-in"
       onClick={onClose}
     >
       <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
       <div
-        className="relative w-full max-w-sm card animate-modal-in"
+        className="relative w-full md:max-w-sm max-h-[90vh] md:max-h-[85vh] flex flex-col card animate-modal-in rounded-b-none md:rounded-2xl"
         onClick={(e) => e.stopPropagation()}
       >
-        <div className="p-5">
+        <div className="p-5 overflow-y-auto scrollbar-thin">
           <div className="flex items-start justify-between mb-4">
             <div>
               <div className="font-mono text-xs text-[color:var(--color-text-muted)] tracking-wider">
@@ -171,6 +173,7 @@ export function StickerModal({
         </div>
       </div>
     </div>
+    </ModalPortal>
   );
 }
 

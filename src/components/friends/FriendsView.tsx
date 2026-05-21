@@ -14,13 +14,10 @@ export function FriendsView({ data }: Props) {
   const {
     friends,
     loaded: friendsLoaded,
-    addFriend,
     importFriend,
     replaceFriendStickers,
   } = useFriends();
   const { entries, loaded: collectionLoaded } = useCollection();
-  const [adding, setAdding] = useState(false);
-  const [name, setName] = useState("");
   const [showExport, setShowExport] = useState(false);
   const [showImport, setShowImport] = useState(false);
 
@@ -54,14 +51,6 @@ export function FriendsView({ data }: Props) {
   const totalTrades = decorated.reduce((s, f) => s + f.trades, 0);
   const loaded = friendsLoaded && collectionLoaded;
 
-  const submit = () => {
-    const v = name.trim();
-    if (!v) return;
-    addFriend(v);
-    setName("");
-    setAdding(false);
-  };
-
   const myQuantities = useMemo(() => {
     const map = new Map<string, number>();
     for (const e of entries) {
@@ -81,7 +70,7 @@ export function FriendsView({ data }: Props) {
           <p className="text-sm text-[color:var(--color-text-muted)] mt-1">
             {loaded && friends.length > 0
               ? `${friends.length} amigo${friends.length > 1 ? "s" : ""} · ${totalTrades} troca${totalTrades !== 1 ? "s" : ""} disponíve${totalTrades !== 1 ? "is" : "l"}`
-              : "Cadastre amigos e suas repetidas para encontrar trocas"}
+              : "Importe a coleção de um amigo pra começar a montar trocas"}
           </p>
         </div>
         <div className="flex flex-wrap gap-2">
@@ -97,84 +86,24 @@ export function FriendsView({ data }: Props) {
           <button
             type="button"
             onClick={() => setShowImport(true)}
-            className="btn btn-ghost"
+            className="btn btn-primary"
             title="Importar código de um amigo"
           >
             <ImportIcon className="w-4 h-4" />
-            Importar
-          </button>
-          <button
-            type="button"
-            onClick={() => setAdding(true)}
-            className="btn btn-primary"
-          >
-            <svg
-              className="w-4 h-4"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-            >
-              <path d="M12 5v14M5 12h14" />
-            </svg>
-            Adicionar
+            Importar amigo
           </button>
         </div>
       </header>
 
-      {adding && (
-        <div className="card p-4 animate-fade-in">
-          <label className="text-sm font-medium block mb-2">
-            Nome do amigo
-          </label>
-          <input
-            autoFocus
-            type="text"
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-            onKeyDown={(e) => {
-              if (e.key === "Enter") submit();
-              if (e.key === "Escape") {
-                setAdding(false);
-                setName("");
-              }
-            }}
-            placeholder="Ex: João, Mariana..."
-            className="input"
-          />
-          <div className="mt-3 flex gap-2 justify-end">
-            <button
-              type="button"
-              className="btn btn-ghost"
-              onClick={() => {
-                setAdding(false);
-                setName("");
-              }}
-            >
-              Cancelar
-            </button>
-            <button
-              type="button"
-              className="btn btn-primary"
-              disabled={!name.trim()}
-              onClick={submit}
-            >
-              Adicionar
-            </button>
-          </div>
-        </div>
-      )}
-
-      {loaded && friends.length === 0 && !adding && (
+      {loaded && friends.length === 0 && (
         <div className="text-center py-16">
           <div className="text-4xl mb-3">🤝</div>
           <div className="font-semibold tracking-tight">
-            Nenhum amigo cadastrado
+            Nenhum amigo importado
           </div>
           <p className="text-sm text-[color:var(--color-text-muted)] mt-1 max-w-sm mx-auto">
-            Adicione amigos e cadastre as repetidas deles, ou importe a coleção
-            de alguém usando um código compartilhado.
+            Peça o código da coleção pra um amigo (botão "Meu código") e
+            importe aqui pra montar trocas com base nas duplicadas de cada um.
           </p>
         </div>
       )}

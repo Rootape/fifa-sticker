@@ -27,16 +27,6 @@ export function useFriends() {
     } catch {}
   }, [friends, loaded]);
 
-  const addFriend = useCallback((name: string): Friend => {
-    const friend: Friend = {
-      id: crypto.randomUUID(),
-      name: name.trim(),
-      stickers: [],
-    };
-    setFriends((prev) => [...prev, friend]);
-    return friend;
-  }, []);
-
   const removeFriend = useCallback((id: string) => {
     setFriends((prev) => prev.filter((f) => f.id !== id));
   }, []);
@@ -50,57 +40,6 @@ export function useFriends() {
   const getFriend = useCallback(
     (id: string) => friends.find((f) => f.id === id),
     [friends],
-  );
-
-  const setStickerQuantity = useCallback(
-    (friendId: string, stickerId: string, quantity: number) => {
-      setFriends((prev) =>
-        prev.map((f) => {
-          if (f.id !== friendId) return f;
-          if (quantity <= 0) {
-            return {
-              ...f,
-              stickers: f.stickers.filter((d) => d.stickerId !== stickerId),
-            };
-          }
-          const idx = f.stickers.findIndex((d) => d.stickerId === stickerId);
-          if (idx >= 0) {
-            const next = [...f.stickers];
-            next[idx] = { stickerId, quantity };
-            return { ...f, stickers: next };
-          }
-          return {
-            ...f,
-            stickers: [...f.stickers, { stickerId, quantity }],
-          };
-        }),
-      );
-    },
-    [],
-  );
-
-  const incrementSticker = useCallback(
-    (friendId: string, stickerId: string) => {
-      setFriends((prev) =>
-        prev.map((f) => {
-          if (f.id !== friendId) return f;
-          const idx = f.stickers.findIndex((d) => d.stickerId === stickerId);
-          if (idx >= 0) {
-            const next = [...f.stickers];
-            next[idx] = {
-              stickerId,
-              quantity: Math.min(99, next[idx].quantity + 1),
-            };
-            return { ...f, stickers: next };
-          }
-          return {
-            ...f,
-            stickers: [...f.stickers, { stickerId, quantity: 1 }],
-          };
-        }),
-      );
-    },
-    [],
   );
 
   const importFriend = useCallback(
@@ -138,12 +77,9 @@ export function useFriends() {
   return {
     friends,
     loaded,
-    addFriend,
     removeFriend,
     renameFriend,
     getFriend,
-    setStickerQuantity,
-    incrementSticker,
     importFriend,
     replaceFriendStickers,
   };
