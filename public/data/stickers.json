@@ -1,0 +1,5326 @@
+{
+  "meta": {
+    "title": "Panini FIFA World Cup 2026",
+    "totalStickers": 585,
+    "totalTeams": 51,
+    "source": "Diamond Cards Online / Checklist Insider / Cartophilic Info Exchange"
+  },
+  "teams": {
+    "FWC": "FIFA / Tournament",
+    "MEX": "Mexico",
+    "RSA": "South Africa",
+    "KOR": "South Korea",
+    "CZE": "Czechia",
+    "CAN": "Canada",
+    "BIH": "Bosnia and Herzegovina",
+    "QAT": "Qatar",
+    "SUI": "Switzerland",
+    "BRA": "Brazil",
+    "MAR": "Morocco",
+    "HAI": "Haiti",
+    "SCO": "Scotland",
+    "USA": "USA",
+    "PAR": "Paraguay",
+    "AUS": "Australia",
+    "TUR": "Türkiye",
+    "GER": "Germany",
+    "CUW": "Curaçao",
+    "CIV": "Ivory Coast",
+    "ECU": "Ecuador",
+    "NED": "Netherlands",
+    "JPN": "Japan",
+    "SWE": "Sweden",
+    "TUN": "Tunisia",
+    "BEL": "Belgium",
+    "EGY": "Egypt",
+    "IRN": "Iran",
+    "NZL": "New Zealand",
+    "ESP": "Spain",
+    "CPV": "Cape Verde",
+    "KSA": "Saudi Arabia",
+    "URU": "Uruguay",
+    "FRA": "France",
+    "SEN": "Senegal",
+    "IRQ": "Iraq",
+    "NOR": "Norway",
+    "ARG": "Argentina",
+    "ALG": "Algeria",
+    "AUT": "Austria",
+    "JOR": "Jordan",
+    "POR": "Portugal",
+    "COD": "Congo DR",
+    "UZB": "Uzbekistan",
+    "COL": "Colombia",
+    "ENG": "England",
+    "CRO": "Croatia",
+    "GHA": "Ghana",
+    "PAN": "Panama"
+  },
+  "stickers": [
+    {
+      "id": "00",
+      "code": "00",
+      "number": 0,
+      "name": "Panini Logo",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC1",
+      "code": "FWC1",
+      "number": 1,
+      "name": "Official Emblem",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC2",
+      "code": "FWC2",
+      "number": 2,
+      "name": "Official Emblem",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC3",
+      "code": "FWC3",
+      "number": 3,
+      "name": "Official Mascots",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC4",
+      "code": "FWC4",
+      "number": 4,
+      "name": "Official Slogan",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC5",
+      "code": "FWC5",
+      "number": 5,
+      "name": "Official Ball",
+      "team": "FWC",
+      "country": "FIFA / Tournament",
+      "isFoil": true
+    },
+    {
+      "id": "FWC6",
+      "code": "FWC6",
+      "number": 6,
+      "name": "Canada",
+      "team": "FWC",
+      "country": "Host Countries & Cities",
+      "isFoil": true
+    },
+    {
+      "id": "FWC7",
+      "code": "FWC7",
+      "number": 7,
+      "name": "Mexico",
+      "team": "FWC",
+      "country": "Host Countries & Cities",
+      "isFoil": true
+    },
+    {
+      "id": "FWC8",
+      "code": "FWC8",
+      "number": 8,
+      "name": "USA",
+      "team": "FWC",
+      "country": "Host Countries & Cities",
+      "isFoil": true
+    },
+    {
+      "id": "MEX0",
+      "code": "MEX0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": true
+    },
+    {
+      "id": "MEX1",
+      "code": "MEX1",
+      "number": 1,
+      "name": "Luis Malagón",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX2",
+      "code": "MEX2",
+      "number": 2,
+      "name": "Johan Vasquez",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX3",
+      "code": "MEX3",
+      "number": 3,
+      "name": "Cesar Montes",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX4",
+      "code": "MEX4",
+      "number": 4,
+      "name": "Jesus Gallardo",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX5",
+      "code": "MEX5",
+      "number": 5,
+      "name": "Israel Reyes",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX6",
+      "code": "MEX6",
+      "number": 6,
+      "name": "Edson Alvarez",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX7",
+      "code": "MEX7",
+      "number": 7,
+      "name": "Marcel Ruiz",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX8",
+      "code": "MEX8",
+      "number": 8,
+      "name": "Hirving Lozano",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX9",
+      "code": "MEX9",
+      "number": 9,
+      "name": "Raúl Jiménez",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX10",
+      "code": "MEX10",
+      "number": 10,
+      "name": "Alexis Vega",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "MEX11",
+      "code": "MEX11",
+      "number": 11,
+      "name": "Roberto Alvarado",
+      "team": "MEX",
+      "country": "Mexico",
+      "isFoil": false
+    },
+    {
+      "id": "RSA0",
+      "code": "RSA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": true
+    },
+    {
+      "id": "RSA1",
+      "code": "RSA1",
+      "number": 1,
+      "name": "Ronwen Williams",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA2",
+      "code": "RSA2",
+      "number": 2,
+      "name": "Aubrey Modiba",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA3",
+      "code": "RSA3",
+      "number": 3,
+      "name": "Mbekezeli Mbokazi",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA4",
+      "code": "RSA4",
+      "number": 4,
+      "name": "Siyabonga Ngezana",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA5",
+      "code": "RSA5",
+      "number": 5,
+      "name": "Khuliso Mudau",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA6",
+      "code": "RSA6",
+      "number": 6,
+      "name": "Teboho Mokoena",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA7",
+      "code": "RSA7",
+      "number": 7,
+      "name": "Yaya Sithole",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA8",
+      "code": "RSA8",
+      "number": 8,
+      "name": "Bathasi Aubaas",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA9",
+      "code": "RSA9",
+      "number": 9,
+      "name": "Sipho Mbule",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA10",
+      "code": "RSA10",
+      "number": 10,
+      "name": "Lyle Foster",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "RSA11",
+      "code": "RSA11",
+      "number": 11,
+      "name": "Oswin Appollis",
+      "team": "RSA",
+      "country": "South Africa",
+      "isFoil": false
+    },
+    {
+      "id": "KOR0",
+      "code": "KOR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": true
+    },
+    {
+      "id": "KOR1",
+      "code": "KOR1",
+      "number": 1,
+      "name": "Hyeon-woo Jo",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR2",
+      "code": "KOR2",
+      "number": 2,
+      "name": "Min-jae Kim",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR3",
+      "code": "KOR3",
+      "number": 3,
+      "name": "Yu-min Cho",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR4",
+      "code": "KOR4",
+      "number": 4,
+      "name": "Young-woo Seol",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR5",
+      "code": "KOR5",
+      "number": 5,
+      "name": "Jae-sung Lee",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR6",
+      "code": "KOR6",
+      "number": 6,
+      "name": "In-beom Hwang",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR7",
+      "code": "KOR7",
+      "number": 7,
+      "name": "Kang-in Lee",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR8",
+      "code": "KOR8",
+      "number": 8,
+      "name": "Jens Castrop",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR9",
+      "code": "KOR9",
+      "number": 9,
+      "name": "Heung-min Son",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR10",
+      "code": "KOR10",
+      "number": 10,
+      "name": "Hee-chan Hwang",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "KOR11",
+      "code": "KOR11",
+      "number": 11,
+      "name": "Hyeon-Gyu Oh",
+      "team": "KOR",
+      "country": "South Korea",
+      "isFoil": false
+    },
+    {
+      "id": "CZE0",
+      "code": "CZE0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": true
+    },
+    {
+      "id": "CZE1",
+      "code": "CZE1",
+      "number": 1,
+      "name": "Matej Kovar",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE2",
+      "code": "CZE2",
+      "number": 2,
+      "name": "Ladislav Krejci",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE3",
+      "code": "CZE3",
+      "number": 3,
+      "name": "Vladimir Coufal",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE4",
+      "code": "CZE4",
+      "number": 4,
+      "name": "Jaroslav Zeleny",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE5",
+      "code": "CZE5",
+      "number": 5,
+      "name": "Lukas Provod",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE6",
+      "code": "CZE6",
+      "number": 6,
+      "name": "Lukas Cerv",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE7",
+      "code": "CZE7",
+      "number": 7,
+      "name": "Tomas Soucek",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE8",
+      "code": "CZE8",
+      "number": 8,
+      "name": "Pavel Sulc",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE9",
+      "code": "CZE9",
+      "number": 9,
+      "name": "Vaclav Cerny",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE10",
+      "code": "CZE10",
+      "number": 10,
+      "name": "Adam Hlozek",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CZE11",
+      "code": "CZE11",
+      "number": 11,
+      "name": "Patrik Schick",
+      "team": "CZE",
+      "country": "Czechia",
+      "isFoil": false
+    },
+    {
+      "id": "CAN0",
+      "code": "CAN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": true
+    },
+    {
+      "id": "CAN1",
+      "code": "CAN1",
+      "number": 1,
+      "name": "Dayne St.Clair",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN2",
+      "code": "CAN2",
+      "number": 2,
+      "name": "Alphonso Davies",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN3",
+      "code": "CAN3",
+      "number": 3,
+      "name": "Riche Larvea",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN4",
+      "code": "CAN4",
+      "number": 4,
+      "name": "Derek Cornelius",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN5",
+      "code": "CAN5",
+      "number": 5,
+      "name": "Stephen Eustáquio",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN6",
+      "code": "CAN6",
+      "number": 6,
+      "name": "Ismaël Koné",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN7",
+      "code": "CAN7",
+      "number": 7,
+      "name": "Jacob Shaffelburg",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN8",
+      "code": "CAN8",
+      "number": 8,
+      "name": "Niko Sigur",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN9",
+      "code": "CAN9",
+      "number": 9,
+      "name": "Tajon Buchanan",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN10",
+      "code": "CAN10",
+      "number": 10,
+      "name": "Cyle Larin",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "CAN11",
+      "code": "CAN11",
+      "number": 11,
+      "name": "Jonathan David",
+      "team": "CAN",
+      "country": "Canada",
+      "isFoil": false
+    },
+    {
+      "id": "BIH0",
+      "code": "BIH0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": true
+    },
+    {
+      "id": "BIH1",
+      "code": "BIH1",
+      "number": 1,
+      "name": "Nikola Vasilj",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH2",
+      "code": "BIH2",
+      "number": 2,
+      "name": "Amer Dedic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH3",
+      "code": "BIH3",
+      "number": 3,
+      "name": "Sead Kolasinac",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH4",
+      "code": "BIH4",
+      "number": 4,
+      "name": "Tarik Muharemovic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH5",
+      "code": "BIH5",
+      "number": 5,
+      "name": "Nikola Katic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH6",
+      "code": "BIH6",
+      "number": 6,
+      "name": "Benjamin Tahirovic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH7",
+      "code": "BIH7",
+      "number": 7,
+      "name": "Ivan Sunjic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH8",
+      "code": "BIH8",
+      "number": 8,
+      "name": "Ermedin Demirovic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH9",
+      "code": "BIH9",
+      "number": 9,
+      "name": "Esmir Bajraktarevic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH10",
+      "code": "BIH10",
+      "number": 10,
+      "name": "Edin Dzeko",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "BIH11",
+      "code": "BIH11",
+      "number": 11,
+      "name": "Amar Memic",
+      "team": "BIH",
+      "country": "Bosnia and Herzegovina",
+      "isFoil": false
+    },
+    {
+      "id": "QAT0",
+      "code": "QAT0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": true
+    },
+    {
+      "id": "QAT1",
+      "code": "QAT1",
+      "number": 1,
+      "name": "Meshaal Barsham",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT2",
+      "code": "QAT2",
+      "number": 2,
+      "name": "Sultan Albrake",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT3",
+      "code": "QAT3",
+      "number": 3,
+      "name": "Boualem Khoukhi",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT4",
+      "code": "QAT4",
+      "number": 4,
+      "name": "Pedro Miguel",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT5",
+      "code": "QAT5",
+      "number": 5,
+      "name": "Mohamed Al-Mannai",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT6",
+      "code": "QAT6",
+      "number": 6,
+      "name": "Karim Boudiaf",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT7",
+      "code": "QAT7",
+      "number": 7,
+      "name": "Assim Madibo",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT8",
+      "code": "QAT8",
+      "number": 8,
+      "name": "Edmilson Junior",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT9",
+      "code": "QAT9",
+      "number": 9,
+      "name": "Akram Hassan Afif",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT10",
+      "code": "QAT10",
+      "number": 10,
+      "name": "Ahmed Al Ganehi",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "QAT11",
+      "code": "QAT11",
+      "number": 11,
+      "name": "Almoez Ali",
+      "team": "QAT",
+      "country": "Qatar",
+      "isFoil": false
+    },
+    {
+      "id": "SUI0",
+      "code": "SUI0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": true
+    },
+    {
+      "id": "SUI1",
+      "code": "SUI1",
+      "number": 1,
+      "name": "Gregor Kobel",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI2",
+      "code": "SUI2",
+      "number": 2,
+      "name": "Manuel Akanji",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI3",
+      "code": "SUI3",
+      "number": 3,
+      "name": "Ricardo Rodriguez",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI4",
+      "code": "SUI4",
+      "number": 4,
+      "name": "Nico Elvedi",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI5",
+      "code": "SUI5",
+      "number": 5,
+      "name": "Silvan Widmer",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI6",
+      "code": "SUI6",
+      "number": 6,
+      "name": "Granit Xhaka",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI7",
+      "code": "SUI7",
+      "number": 7,
+      "name": "Remo Freuler",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI8",
+      "code": "SUI8",
+      "number": 8,
+      "name": "Fabian Rieder",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI9",
+      "code": "SUI9",
+      "number": 9,
+      "name": "Breel Embolo",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI10",
+      "code": "SUI10",
+      "number": 10,
+      "name": "Ruben Vargas",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "SUI11",
+      "code": "SUI11",
+      "number": 11,
+      "name": "Dan Ndoye",
+      "team": "SUI",
+      "country": "Switzerland",
+      "isFoil": false
+    },
+    {
+      "id": "BRA0",
+      "code": "BRA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": true
+    },
+    {
+      "id": "BRA1",
+      "code": "BRA1",
+      "number": 1,
+      "name": "Alisson",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA2",
+      "code": "BRA2",
+      "number": 2,
+      "name": "Marquinhos",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA3",
+      "code": "BRA3",
+      "number": 3,
+      "name": "Éder Militão",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA4",
+      "code": "BRA4",
+      "number": 4,
+      "name": "Gabriel Magalhães",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA5",
+      "code": "BRA5",
+      "number": 5,
+      "name": "Casemiro",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA6",
+      "code": "BRA6",
+      "number": 6,
+      "name": "Bruno Guimarães",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA7",
+      "code": "BRA7",
+      "number": 7,
+      "name": "Vinicius Júnior",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA8",
+      "code": "BRA8",
+      "number": 8,
+      "name": "Rodrygo",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA9",
+      "code": "BRA9",
+      "number": 9,
+      "name": "Matheus Cunha",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA10",
+      "code": "BRA10",
+      "number": 10,
+      "name": "Raphinha",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "BRA11",
+      "code": "BRA11",
+      "number": 11,
+      "name": "Estévão",
+      "team": "BRA",
+      "country": "Brazil",
+      "isFoil": false
+    },
+    {
+      "id": "MAR0",
+      "code": "MAR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": true
+    },
+    {
+      "id": "MAR1",
+      "code": "MAR1",
+      "number": 1,
+      "name": "Yassine Bounou",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR2",
+      "code": "MAR2",
+      "number": 2,
+      "name": "Achraf Hakimi",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR3",
+      "code": "MAR3",
+      "number": 3,
+      "name": "Noussair Mazraoui",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR4",
+      "code": "MAR4",
+      "number": 4,
+      "name": "Nayef Aguerd",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR5",
+      "code": "MAR5",
+      "number": 5,
+      "name": "Roman Saiss",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR6",
+      "code": "MAR6",
+      "number": 6,
+      "name": "Sofyan Amrabat",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR7",
+      "code": "MAR7",
+      "number": 7,
+      "name": "Eliesse Ben Seghir",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR8",
+      "code": "MAR8",
+      "number": 8,
+      "name": "Bilal El Khannouss",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR9",
+      "code": "MAR9",
+      "number": 9,
+      "name": "Ismael Saibari",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR10",
+      "code": "MAR10",
+      "number": 10,
+      "name": "Youssef En-Nesyri",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "MAR11",
+      "code": "MAR11",
+      "number": 11,
+      "name": "Brahim Diaz",
+      "team": "MAR",
+      "country": "Morocco",
+      "isFoil": false
+    },
+    {
+      "id": "HAI0",
+      "code": "HAI0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": true
+    },
+    {
+      "id": "HAI1",
+      "code": "HAI1",
+      "number": 1,
+      "name": "Johny Placide",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI2",
+      "code": "HAI2",
+      "number": 2,
+      "name": "Carlens Arcus",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI3",
+      "code": "HAI3",
+      "number": 3,
+      "name": "Ricardo Adé",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI4",
+      "code": "HAI4",
+      "number": 4,
+      "name": "Duke Lacroix",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI5",
+      "code": "HAI5",
+      "number": 5,
+      "name": "Leverton Pierre",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI6",
+      "code": "HAI6",
+      "number": 6,
+      "name": "Danley Jean Jacques",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI7",
+      "code": "HAI7",
+      "number": 7,
+      "name": "Jean-Ricner Bellegarde",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI8",
+      "code": "HAI8",
+      "number": 8,
+      "name": "Josue Casimir",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI9",
+      "code": "HAI9",
+      "number": 9,
+      "name": "Ruben Providence",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI10",
+      "code": "HAI10",
+      "number": 10,
+      "name": "Duckens Nazon",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "HAI11",
+      "code": "HAI11",
+      "number": 11,
+      "name": "Frantzdy Pierrot",
+      "team": "HAI",
+      "country": "Haiti",
+      "isFoil": false
+    },
+    {
+      "id": "SCO0",
+      "code": "SCO0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": true
+    },
+    {
+      "id": "SCO1",
+      "code": "SCO1",
+      "number": 1,
+      "name": "Angus Gunn",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO2",
+      "code": "SCO2",
+      "number": 2,
+      "name": "Aaron Hickey",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO3",
+      "code": "SCO3",
+      "number": 3,
+      "name": "Andrew Robertson",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO4",
+      "code": "SCO4",
+      "number": 4,
+      "name": "John Souttar",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO5",
+      "code": "SCO5",
+      "number": 5,
+      "name": "Grant Hanley",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO6",
+      "code": "SCO6",
+      "number": 6,
+      "name": "Scott McTominay",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO7",
+      "code": "SCO7",
+      "number": 7,
+      "name": "Lewis Ferguson",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO8",
+      "code": "SCO8",
+      "number": 8,
+      "name": "Ryan Christie",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO9",
+      "code": "SCO9",
+      "number": 9,
+      "name": "John McGinn",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO10",
+      "code": "SCO10",
+      "number": 10,
+      "name": "Che Adams",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "SCO11",
+      "code": "SCO11",
+      "number": 11,
+      "name": "Ben Gannon-Doak",
+      "team": "SCO",
+      "country": "Scotland",
+      "isFoil": false
+    },
+    {
+      "id": "USA0",
+      "code": "USA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": true
+    },
+    {
+      "id": "USA1",
+      "code": "USA1",
+      "number": 1,
+      "name": "Matt Freese",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA2",
+      "code": "USA2",
+      "number": 2,
+      "name": "Chris Richards",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA3",
+      "code": "USA3",
+      "number": 3,
+      "name": "Tim Ream",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA4",
+      "code": "USA4",
+      "number": 4,
+      "name": "Mark McKenzie",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA5",
+      "code": "USA5",
+      "number": 5,
+      "name": "Tyler Adams",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA6",
+      "code": "USA6",
+      "number": 6,
+      "name": "Weston McKennie",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA7",
+      "code": "USA7",
+      "number": 7,
+      "name": "Timothy Weah",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA8",
+      "code": "USA8",
+      "number": 8,
+      "name": "Malik Tillman",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA9",
+      "code": "USA9",
+      "number": 9,
+      "name": "Christian Pulisic",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA10",
+      "code": "USA10",
+      "number": 10,
+      "name": "Brenden Aaronson",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "USA11",
+      "code": "USA11",
+      "number": 11,
+      "name": "Folarin Balogun",
+      "team": "USA",
+      "country": "USA",
+      "isFoil": false
+    },
+    {
+      "id": "PAR0",
+      "code": "PAR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": true
+    },
+    {
+      "id": "PAR1",
+      "code": "PAR1",
+      "number": 1,
+      "name": "Orlando Gill",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR2",
+      "code": "PAR2",
+      "number": 2,
+      "name": "Gustavo Gomez",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR3",
+      "code": "PAR3",
+      "number": 3,
+      "name": "Juan José Cáceres",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR4",
+      "code": "PAR4",
+      "number": 4,
+      "name": "Omar Alderete",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR5",
+      "code": "PAR5",
+      "number": 5,
+      "name": "Junior Alonso",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR6",
+      "code": "PAR6",
+      "number": 6,
+      "name": "Diego Gomez",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR7",
+      "code": "PAR7",
+      "number": 7,
+      "name": "Andres Cubas",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR8",
+      "code": "PAR8",
+      "number": 8,
+      "name": "Julio Enciso",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR9",
+      "code": "PAR9",
+      "number": 9,
+      "name": "Miguel Almirón",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR10",
+      "code": "PAR10",
+      "number": 10,
+      "name": "Ramon Sosa",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "PAR11",
+      "code": "PAR11",
+      "number": 11,
+      "name": "Antonio Sanabria",
+      "team": "PAR",
+      "country": "Paraguay",
+      "isFoil": false
+    },
+    {
+      "id": "AUS0",
+      "code": "AUS0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": true
+    },
+    {
+      "id": "AUS1",
+      "code": "AUS1",
+      "number": 1,
+      "name": "Mathew Ryan",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS2",
+      "code": "AUS2",
+      "number": 2,
+      "name": "Harry Souttar",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS3",
+      "code": "AUS3",
+      "number": 3,
+      "name": "Aziz Behich",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS4",
+      "code": "AUS4",
+      "number": 4,
+      "name": "Cameron Burgess",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS5",
+      "code": "AUS5",
+      "number": 5,
+      "name": "Lewis Miller",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS6",
+      "code": "AUS6",
+      "number": 6,
+      "name": "Jackson Irvine",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS7",
+      "code": "AUS7",
+      "number": 7,
+      "name": "Riley McGree",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS8",
+      "code": "AUS8",
+      "number": 8,
+      "name": "Aiden O'Neill",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS9",
+      "code": "AUS9",
+      "number": 9,
+      "name": "Connor Metcalfe",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS10",
+      "code": "AUS10",
+      "number": 10,
+      "name": "Kusini Vengi",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "AUS11",
+      "code": "AUS11",
+      "number": 11,
+      "name": "Nestory Irankunda",
+      "team": "AUS",
+      "country": "Australia",
+      "isFoil": false
+    },
+    {
+      "id": "TUR0",
+      "code": "TUR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": true
+    },
+    {
+      "id": "TUR1",
+      "code": "TUR1",
+      "number": 1,
+      "name": "Ugurcan Cakir",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR2",
+      "code": "TUR2",
+      "number": 2,
+      "name": "Mert Muldur",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR3",
+      "code": "TUR3",
+      "number": 3,
+      "name": "Abdulkerim Bardakci",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR4",
+      "code": "TUR4",
+      "number": 4,
+      "name": "Merih Demiral",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR5",
+      "code": "TUR5",
+      "number": 5,
+      "name": "Ferdi Kadioglu",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR6",
+      "code": "TUR6",
+      "number": 6,
+      "name": "Hakan Calhanoglu",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR7",
+      "code": "TUR7",
+      "number": 7,
+      "name": "Orkun Kokcu",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR8",
+      "code": "TUR8",
+      "number": 8,
+      "name": "Arda Guler",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR9",
+      "code": "TUR9",
+      "number": 9,
+      "name": "Can Uzun",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR10",
+      "code": "TUR10",
+      "number": 10,
+      "name": "Kerem Akturkoglu",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "TUR11",
+      "code": "TUR11",
+      "number": 11,
+      "name": "Kenan Yildiz",
+      "team": "TUR",
+      "country": "Türkiye",
+      "isFoil": false
+    },
+    {
+      "id": "GER0",
+      "code": "GER0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": true
+    },
+    {
+      "id": "GER1",
+      "code": "GER1",
+      "number": 1,
+      "name": "Marc-André ter Stegen",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER2",
+      "code": "GER2",
+      "number": 2,
+      "name": "Antonio Rüdiger",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER3",
+      "code": "GER3",
+      "number": 3,
+      "name": "Jonathan Tah",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER4",
+      "code": "GER4",
+      "number": 4,
+      "name": "David Raum",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER5",
+      "code": "GER5",
+      "number": 5,
+      "name": "Florian Wirtz",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER6",
+      "code": "GER6",
+      "number": 6,
+      "name": "Joshua Kimmich",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER7",
+      "code": "GER7",
+      "number": 7,
+      "name": "Leon Goretzka",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER8",
+      "code": "GER8",
+      "number": 8,
+      "name": "Jamal Musiala",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER9",
+      "code": "GER9",
+      "number": 9,
+      "name": "Serge Gnabry",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER10",
+      "code": "GER10",
+      "number": 10,
+      "name": "Kai Havertz",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "GER11",
+      "code": "GER11",
+      "number": 11,
+      "name": "Nick Woltemade",
+      "team": "GER",
+      "country": "Germany",
+      "isFoil": false
+    },
+    {
+      "id": "CUW0",
+      "code": "CUW0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": true
+    },
+    {
+      "id": "CUW1",
+      "code": "CUW1",
+      "number": 1,
+      "name": "Eloy Room",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW2",
+      "code": "CUW2",
+      "number": 2,
+      "name": "Armando Obispo",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW3",
+      "code": "CUW3",
+      "number": 3,
+      "name": "Sherel Floranus",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW4",
+      "code": "CUW4",
+      "number": 4,
+      "name": "Roshon Van Eijma",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW5",
+      "code": "CUW5",
+      "number": 5,
+      "name": "Shurandy Sambo",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW6",
+      "code": "CUW6",
+      "number": 6,
+      "name": "Livano Comenencia",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW7",
+      "code": "CUW7",
+      "number": 7,
+      "name": "Juninho Bacuna",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW8",
+      "code": "CUW8",
+      "number": 8,
+      "name": "Leandro Bacuna",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW9",
+      "code": "CUW9",
+      "number": 9,
+      "name": "Kenji Gorre",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW10",
+      "code": "CUW10",
+      "number": 10,
+      "name": "Jurgen Locadia",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CUW11",
+      "code": "CUW11",
+      "number": 11,
+      "name": "Sontje Hansen",
+      "team": "CUW",
+      "country": "Curaçao",
+      "isFoil": false
+    },
+    {
+      "id": "CIV0",
+      "code": "CIV0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": true
+    },
+    {
+      "id": "CIV1",
+      "code": "CIV1",
+      "number": 1,
+      "name": "Yahia Fofana",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV2",
+      "code": "CIV2",
+      "number": 2,
+      "name": "Ghislain Konan",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV3",
+      "code": "CIV3",
+      "number": 3,
+      "name": "Wilfried Singo",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV4",
+      "code": "CIV4",
+      "number": 4,
+      "name": "Evan Ndicka",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV5",
+      "code": "CIV5",
+      "number": 5,
+      "name": "Willy Boly",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV6",
+      "code": "CIV6",
+      "number": 6,
+      "name": "Franck Kessie",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV7",
+      "code": "CIV7",
+      "number": 7,
+      "name": "Seko Fofana",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV8",
+      "code": "CIV8",
+      "number": 8,
+      "name": "Ibrahim Sangare",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV9",
+      "code": "CIV9",
+      "number": 9,
+      "name": "Sébastien Haller",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV10",
+      "code": "CIV10",
+      "number": 10,
+      "name": "Simon Adingra",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "CIV11",
+      "code": "CIV11",
+      "number": 11,
+      "name": "Evann Guessand",
+      "team": "CIV",
+      "country": "Ivory Coast",
+      "isFoil": false
+    },
+    {
+      "id": "ECU0",
+      "code": "ECU0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": true
+    },
+    {
+      "id": "ECU1",
+      "code": "ECU1",
+      "number": 1,
+      "name": "Hernán Galíndez",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU2",
+      "code": "ECU2",
+      "number": 2,
+      "name": "Piero Hincapié",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU3",
+      "code": "ECU3",
+      "number": 3,
+      "name": "Pervis Estupiñán",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU4",
+      "code": "ECU4",
+      "number": 4,
+      "name": "Willian Pacho",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU5",
+      "code": "ECU5",
+      "number": 5,
+      "name": "Ángelo Preciado",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU6",
+      "code": "ECU6",
+      "number": 6,
+      "name": "Kendry Paez",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU7",
+      "code": "ECU7",
+      "number": 7,
+      "name": "Moises Caicedo",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU8",
+      "code": "ECU8",
+      "number": 8,
+      "name": "Alan Franco",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU9",
+      "code": "ECU9",
+      "number": 9,
+      "name": "Gonzalo Valle",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU10",
+      "code": "ECU10",
+      "number": 10,
+      "name": "Gonzalo Plata",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "ECU11",
+      "code": "ECU11",
+      "number": 11,
+      "name": "Enner Valencia",
+      "team": "ECU",
+      "country": "Ecuador",
+      "isFoil": false
+    },
+    {
+      "id": "NED0",
+      "code": "NED0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": true
+    },
+    {
+      "id": "NED1",
+      "code": "NED1",
+      "number": 1,
+      "name": "Bart Verbruggen",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED2",
+      "code": "NED2",
+      "number": 2,
+      "name": "Virgil van Dijk",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED3",
+      "code": "NED3",
+      "number": 3,
+      "name": "Micky van de Ven",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED4",
+      "code": "NED4",
+      "number": 4,
+      "name": "Denzel Dumfries",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED5",
+      "code": "NED5",
+      "number": 5,
+      "name": "Tijjani Reijnders",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED6",
+      "code": "NED6",
+      "number": 6,
+      "name": "Ryan Gravenberch",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED7",
+      "code": "NED7",
+      "number": 7,
+      "name": "Frenkie de Jong",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED8",
+      "code": "NED8",
+      "number": 8,
+      "name": "Xavi Simons",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED9",
+      "code": "NED9",
+      "number": 9,
+      "name": "Memphis Depay",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED10",
+      "code": "NED10",
+      "number": 10,
+      "name": "Donyell Malen",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "NED11",
+      "code": "NED11",
+      "number": 11,
+      "name": "Cody Gakpo",
+      "team": "NED",
+      "country": "Netherlands",
+      "isFoil": false
+    },
+    {
+      "id": "JPN0",
+      "code": "JPN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": true
+    },
+    {
+      "id": "JPN1",
+      "code": "JPN1",
+      "number": 1,
+      "name": "Zion Suzuki",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN2",
+      "code": "JPN2",
+      "number": 2,
+      "name": "Tsuyoshi Watanabe",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN3",
+      "code": "JPN3",
+      "number": 3,
+      "name": "Kaishu Sano",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN4",
+      "code": "JPN4",
+      "number": 4,
+      "name": "Ao Tanaka",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN5",
+      "code": "JPN5",
+      "number": 5,
+      "name": "Daichi Kamada",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN6",
+      "code": "JPN6",
+      "number": 6,
+      "name": "Ritsu Doan",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN7",
+      "code": "JPN7",
+      "number": 7,
+      "name": "Keito Nakamura",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN8",
+      "code": "JPN8",
+      "number": 8,
+      "name": "Takumi Minamino",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN9",
+      "code": "JPN9",
+      "number": 9,
+      "name": "Takefusa Kubo",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN10",
+      "code": "JPN10",
+      "number": 10,
+      "name": "Shogo Taniguchi",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "JPN11",
+      "code": "JPN11",
+      "number": 11,
+      "name": "Ayase Ueda",
+      "team": "JPN",
+      "country": "Japan",
+      "isFoil": false
+    },
+    {
+      "id": "SWE0",
+      "code": "SWE0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": true
+    },
+    {
+      "id": "SWE1",
+      "code": "SWE1",
+      "number": 1,
+      "name": "Victor Johansson",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE2",
+      "code": "SWE2",
+      "number": 2,
+      "name": "Isak Hien",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE3",
+      "code": "SWE3",
+      "number": 3,
+      "name": "Emil Holm",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE4",
+      "code": "SWE4",
+      "number": 4,
+      "name": "Victor Nilsson Lindelöf",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE5",
+      "code": "SWE5",
+      "number": 5,
+      "name": "Lucas Bergvall",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE6",
+      "code": "SWE6",
+      "number": 6,
+      "name": "Yasin Ayari",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE7",
+      "code": "SWE7",
+      "number": 7,
+      "name": "Daniel Svensson",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE8",
+      "code": "SWE8",
+      "number": 8,
+      "name": "Dejan Kulusevski",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE9",
+      "code": "SWE9",
+      "number": 9,
+      "name": "Anthony Elanga",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE10",
+      "code": "SWE10",
+      "number": 10,
+      "name": "Alexander Isak",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "SWE11",
+      "code": "SWE11",
+      "number": 11,
+      "name": "Viktor Gyökeres",
+      "team": "SWE",
+      "country": "Sweden",
+      "isFoil": false
+    },
+    {
+      "id": "TUN0",
+      "code": "TUN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": true
+    },
+    {
+      "id": "TUN1",
+      "code": "TUN1",
+      "number": 1,
+      "name": "Aymen Dahmen",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN2",
+      "code": "TUN2",
+      "number": 2,
+      "name": "Montassar Talbi",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN3",
+      "code": "TUN3",
+      "number": 3,
+      "name": "Yassine Meriah",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN4",
+      "code": "TUN4",
+      "number": 4,
+      "name": "Ali Abdi",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN5",
+      "code": "TUN5",
+      "number": 5,
+      "name": "Ferjani Sassi",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN6",
+      "code": "TUN6",
+      "number": 6,
+      "name": "Ellyes Skhiri",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN7",
+      "code": "TUN7",
+      "number": 7,
+      "name": "Aissa Laidouni",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN8",
+      "code": "TUN8",
+      "number": 8,
+      "name": "Hannibal Mejbri",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN9",
+      "code": "TUN9",
+      "number": 9,
+      "name": "Naim Sliti",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN10",
+      "code": "TUN10",
+      "number": 10,
+      "name": "Elias Achouri",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "TUN11",
+      "code": "TUN11",
+      "number": 11,
+      "name": "Hazem Mastouri",
+      "team": "TUN",
+      "country": "Tunisia",
+      "isFoil": false
+    },
+    {
+      "id": "BEL0",
+      "code": "BEL0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": true
+    },
+    {
+      "id": "BEL1",
+      "code": "BEL1",
+      "number": 1,
+      "name": "Thibaut Courtois",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL2",
+      "code": "BEL2",
+      "number": 2,
+      "name": "Arthur Theate",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL3",
+      "code": "BEL3",
+      "number": 3,
+      "name": "Timothy Castagne",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL4",
+      "code": "BEL4",
+      "number": 4,
+      "name": "Maxim De Cuyper",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL5",
+      "code": "BEL5",
+      "number": 5,
+      "name": "Youri Tielemans",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL6",
+      "code": "BEL6",
+      "number": 6,
+      "name": "Kevin De Bruyne",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL7",
+      "code": "BEL7",
+      "number": 7,
+      "name": "Amadou Onana",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL8",
+      "code": "BEL8",
+      "number": 8,
+      "name": "Jérémy Doku",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL9",
+      "code": "BEL9",
+      "number": 9,
+      "name": "Charles De Ketelaere",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL10",
+      "code": "BEL10",
+      "number": 10,
+      "name": "Leandro Trossard",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "BEL11",
+      "code": "BEL11",
+      "number": 11,
+      "name": "Romelu Lukaku",
+      "team": "BEL",
+      "country": "Belgium",
+      "isFoil": false
+    },
+    {
+      "id": "EGY0",
+      "code": "EGY0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": true
+    },
+    {
+      "id": "EGY1",
+      "code": "EGY1",
+      "number": 1,
+      "name": "Mohamed El Shenawy",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY2",
+      "code": "EGY2",
+      "number": 2,
+      "name": "Mohamed Hany",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY3",
+      "code": "EGY3",
+      "number": 3,
+      "name": "Yasser Ibrahim",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY4",
+      "code": "EGY4",
+      "number": 4,
+      "name": "Ramy Rabia",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY5",
+      "code": "EGY5",
+      "number": 5,
+      "name": "Marwan Attia",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY6",
+      "code": "EGY6",
+      "number": 6,
+      "name": "Zizo",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY7",
+      "code": "EGY7",
+      "number": 7,
+      "name": "Hamdy Fathy",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY8",
+      "code": "EGY8",
+      "number": 8,
+      "name": "Omar Marmoush",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY9",
+      "code": "EGY9",
+      "number": 9,
+      "name": "Mohamed Salah",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY10",
+      "code": "EGY10",
+      "number": 10,
+      "name": "Mostafa Mohamed",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "EGY11",
+      "code": "EGY11",
+      "number": 11,
+      "name": "Trezeguet",
+      "team": "EGY",
+      "country": "Egypt",
+      "isFoil": false
+    },
+    {
+      "id": "IRN0",
+      "code": "IRN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": true
+    },
+    {
+      "id": "IRN1",
+      "code": "IRN1",
+      "number": 1,
+      "name": "Alireza Beiranvand",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN2",
+      "code": "IRN2",
+      "number": 2,
+      "name": "Shojae Khalilzadeh",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN3",
+      "code": "IRN3",
+      "number": 3,
+      "name": "Morteza Pouraliganji",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN4",
+      "code": "IRN4",
+      "number": 4,
+      "name": "Ramin Rezaeian",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN5",
+      "code": "IRN5",
+      "number": 5,
+      "name": "Hossein Kanaani",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN6",
+      "code": "IRN6",
+      "number": 6,
+      "name": "Saeed Ezatolahi",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN7",
+      "code": "IRN7",
+      "number": 7,
+      "name": "Saman Ghoddos",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN8",
+      "code": "IRN8",
+      "number": 8,
+      "name": "Mohammad Mohebi",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN9",
+      "code": "IRN9",
+      "number": 9,
+      "name": "Mehdi Taremi",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN10",
+      "code": "IRN10",
+      "number": 10,
+      "name": "Sardar Azmoun",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "IRN11",
+      "code": "IRN11",
+      "number": 11,
+      "name": "Alireza Jahanbakhsh",
+      "team": "IRN",
+      "country": "Iran",
+      "isFoil": false
+    },
+    {
+      "id": "NZL0",
+      "code": "NZL0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": true
+    },
+    {
+      "id": "NZL1",
+      "code": "NZL1",
+      "number": 1,
+      "name": "Max Crocombe Payne",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL2",
+      "code": "NZL2",
+      "number": 2,
+      "name": "Michael Boxall",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL3",
+      "code": "NZL3",
+      "number": 3,
+      "name": "Liberato Cacace",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL4",
+      "code": "NZL4",
+      "number": 4,
+      "name": "Tim Payne",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL5",
+      "code": "NZL5",
+      "number": 5,
+      "name": "Finn Surman",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL6",
+      "code": "NZL6",
+      "number": 6,
+      "name": "Marko Stamenić",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL7",
+      "code": "NZL7",
+      "number": 7,
+      "name": "Joe Bell",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL8",
+      "code": "NZL8",
+      "number": 8,
+      "name": "Sarpreet Singh",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL9",
+      "code": "NZL9",
+      "number": 9,
+      "name": "Matthew Garbett",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL10",
+      "code": "NZL10",
+      "number": 10,
+      "name": "Chris Wood",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "NZL11",
+      "code": "NZL11",
+      "number": 11,
+      "name": "Elijah Just",
+      "team": "NZL",
+      "country": "New Zealand",
+      "isFoil": false
+    },
+    {
+      "id": "ESP0",
+      "code": "ESP0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": true
+    },
+    {
+      "id": "ESP1",
+      "code": "ESP1",
+      "number": 1,
+      "name": "Unai Simon",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP2",
+      "code": "ESP2",
+      "number": 2,
+      "name": "Robin Le Normand",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP3",
+      "code": "ESP3",
+      "number": 3,
+      "name": "Dean Huijsen",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP4",
+      "code": "ESP4",
+      "number": 4,
+      "name": "Marc Cucurella",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP5",
+      "code": "ESP5",
+      "number": 5,
+      "name": "Rodri",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP6",
+      "code": "ESP6",
+      "number": 6,
+      "name": "Martín Zubimendi",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP7",
+      "code": "ESP7",
+      "number": 7,
+      "name": "Pedri",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP8",
+      "code": "ESP8",
+      "number": 8,
+      "name": "Fabian Ruiz",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP9",
+      "code": "ESP9",
+      "number": 9,
+      "name": "Lamine Yamal",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP10",
+      "code": "ESP10",
+      "number": 10,
+      "name": "Nico Williams",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "ESP11",
+      "code": "ESP11",
+      "number": 11,
+      "name": "Mikel Oyarzabal",
+      "team": "ESP",
+      "country": "Spain",
+      "isFoil": false
+    },
+    {
+      "id": "CPV0",
+      "code": "CPV0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": true
+    },
+    {
+      "id": "CPV1",
+      "code": "CPV1",
+      "number": 1,
+      "name": "Vozinha",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV2",
+      "code": "CPV2",
+      "number": 2,
+      "name": "Logan Costa",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV3",
+      "code": "CPV3",
+      "number": 3,
+      "name": "Pico",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV4",
+      "code": "CPV4",
+      "number": 4,
+      "name": "Steven Moreira",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV5",
+      "code": "CPV5",
+      "number": 5,
+      "name": "Joao Paulo",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV6",
+      "code": "CPV6",
+      "number": 6,
+      "name": "Kevin Pina",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV7",
+      "code": "CPV7",
+      "number": 7,
+      "name": "Jamiro Monteiro",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV8",
+      "code": "CPV8",
+      "number": 8,
+      "name": "Yannick Semedo",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV9",
+      "code": "CPV9",
+      "number": 9,
+      "name": "Ryan Mendes",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV10",
+      "code": "CPV10",
+      "number": 10,
+      "name": "Jovane Cabral",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "CPV11",
+      "code": "CPV11",
+      "number": 11,
+      "name": "Dailon Livramento",
+      "team": "CPV",
+      "country": "Cape Verde",
+      "isFoil": false
+    },
+    {
+      "id": "KSA0",
+      "code": "KSA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": true
+    },
+    {
+      "id": "KSA1",
+      "code": "KSA1",
+      "number": 1,
+      "name": "Nawaf Alaqidi",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA2",
+      "code": "KSA2",
+      "number": 2,
+      "name": "Hassan Altambakti",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA3",
+      "code": "KSA3",
+      "number": 3,
+      "name": "Jihad Thakri",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA4",
+      "code": "KSA4",
+      "number": 4,
+      "name": "Saud Abdulhamid",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA5",
+      "code": "KSA5",
+      "number": 5,
+      "name": "Nasser Aldawsari",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA6",
+      "code": "KSA6",
+      "number": 6,
+      "name": "Abdullah Alkhaibari",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA7",
+      "code": "KSA7",
+      "number": 7,
+      "name": "Musab Aljuwayr",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA8",
+      "code": "KSA8",
+      "number": 8,
+      "name": "Feras Akbrikan",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA9",
+      "code": "KSA9",
+      "number": 9,
+      "name": "Salem Aldawsari",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA10",
+      "code": "KSA10",
+      "number": 10,
+      "name": "Saleh Abu Alshamat",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "KSA11",
+      "code": "KSA11",
+      "number": 11,
+      "name": "Saleh Alshehri",
+      "team": "KSA",
+      "country": "Saudi Arabia",
+      "isFoil": false
+    },
+    {
+      "id": "URU0",
+      "code": "URU0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": true
+    },
+    {
+      "id": "URU1",
+      "code": "URU1",
+      "number": 1,
+      "name": "Sergio Rochet",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU2",
+      "code": "URU2",
+      "number": 2,
+      "name": "José María Giménez",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU3",
+      "code": "URU3",
+      "number": 3,
+      "name": "Ronald Araujo",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU4",
+      "code": "URU4",
+      "number": 4,
+      "name": "Sebastian Caceres",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU5",
+      "code": "URU5",
+      "number": 5,
+      "name": "Mathias Olivera",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU6",
+      "code": "URU6",
+      "number": 6,
+      "name": "Nahitan Nandez",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU7",
+      "code": "URU7",
+      "number": 7,
+      "name": "Federico Valverde",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU8",
+      "code": "URU8",
+      "number": 8,
+      "name": "Rodrigo Bentancur",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU9",
+      "code": "URU9",
+      "number": 9,
+      "name": "Manuel Ugarte",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU10",
+      "code": "URU10",
+      "number": 10,
+      "name": "Facundo Pellistri",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "URU11",
+      "code": "URU11",
+      "number": 11,
+      "name": "Darwin Núñez",
+      "team": "URU",
+      "country": "Uruguay",
+      "isFoil": false
+    },
+    {
+      "id": "FRA0",
+      "code": "FRA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": true
+    },
+    {
+      "id": "FRA1",
+      "code": "FRA1",
+      "number": 1,
+      "name": "Mike Maignan",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA2",
+      "code": "FRA2",
+      "number": 2,
+      "name": "William Saliba",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA3",
+      "code": "FRA3",
+      "number": 3,
+      "name": "Jules Kounde",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA4",
+      "code": "FRA4",
+      "number": 4,
+      "name": "Theo Hernandez",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA5",
+      "code": "FRA5",
+      "number": 5,
+      "name": "Aurélien Tchouaméni",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA6",
+      "code": "FRA6",
+      "number": 6,
+      "name": "Eduardo Camavinga",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA7",
+      "code": "FRA7",
+      "number": 7,
+      "name": "Ousmane Dembele",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA8",
+      "code": "FRA8",
+      "number": 8,
+      "name": "Kylian Mbappe",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA9",
+      "code": "FRA9",
+      "number": 9,
+      "name": "Bradley Barcola",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA10",
+      "code": "FRA10",
+      "number": 10,
+      "name": "Désiré Doué",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "FRA11",
+      "code": "FRA11",
+      "number": 11,
+      "name": "Hugo Ekitike",
+      "team": "FRA",
+      "country": "France",
+      "isFoil": false
+    },
+    {
+      "id": "SEN0",
+      "code": "SEN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": true
+    },
+    {
+      "id": "SEN1",
+      "code": "SEN1",
+      "number": 1,
+      "name": "Edouard Mendy",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN2",
+      "code": "SEN2",
+      "number": 2,
+      "name": "Kalidou Koulibaly",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN3",
+      "code": "SEN3",
+      "number": 3,
+      "name": "Moussa Niakhaté",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN4",
+      "code": "SEN4",
+      "number": 4,
+      "name": "El Hadji Malick Diouf",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN5",
+      "code": "SEN5",
+      "number": 5,
+      "name": "Idrissa Gana Gueye",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN6",
+      "code": "SEN6",
+      "number": 6,
+      "name": "Pape Matar Sarr",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN7",
+      "code": "SEN7",
+      "number": 7,
+      "name": "Sadio Mane",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN8",
+      "code": "SEN8",
+      "number": 8,
+      "name": "Iliman Ndiaye",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN9",
+      "code": "SEN9",
+      "number": 9,
+      "name": "Krepin Diatta",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN10",
+      "code": "SEN10",
+      "number": 10,
+      "name": "Ismaïla Sarr",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "SEN11",
+      "code": "SEN11",
+      "number": 11,
+      "name": "Nicolas Jackson",
+      "team": "SEN",
+      "country": "Senegal",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ0",
+      "code": "IRQ0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": true
+    },
+    {
+      "id": "IRQ1",
+      "code": "IRQ1",
+      "number": 1,
+      "name": "Jalal Hassan",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ2",
+      "code": "IRQ2",
+      "number": 2,
+      "name": "Hussein Ali",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ3",
+      "code": "IRQ3",
+      "number": 3,
+      "name": "Akam Hashem",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ4",
+      "code": "IRQ4",
+      "number": 4,
+      "name": "Merchas Doski",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ5",
+      "code": "IRQ5",
+      "number": 5,
+      "name": "Zaid Tahseen",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ6",
+      "code": "IRQ6",
+      "number": 6,
+      "name": "Zidane Iqbal",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ7",
+      "code": "IRQ7",
+      "number": 7,
+      "name": "Amir Al-Ammari",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ8",
+      "code": "IRQ8",
+      "number": 8,
+      "name": "Ibrahim Bavesh",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ9",
+      "code": "IRQ9",
+      "number": 9,
+      "name": "Ali Jasim",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ10",
+      "code": "IRQ10",
+      "number": 10,
+      "name": "Aimar Sher",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "IRQ11",
+      "code": "IRQ11",
+      "number": 11,
+      "name": "Mohanad Ali",
+      "team": "IRQ",
+      "country": "Iraq",
+      "isFoil": false
+    },
+    {
+      "id": "NOR0",
+      "code": "NOR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": true
+    },
+    {
+      "id": "NOR1",
+      "code": "NOR1",
+      "number": 1,
+      "name": "Orjan Nyland",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR2",
+      "code": "NOR2",
+      "number": 2,
+      "name": "Julian Ryerson",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR3",
+      "code": "NOR3",
+      "number": 3,
+      "name": "Kristoffer Vassbakk Ajer",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR4",
+      "code": "NOR4",
+      "number": 4,
+      "name": "David Møller Wolfe",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR5",
+      "code": "NOR5",
+      "number": 5,
+      "name": "Martin Ødegaard",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR6",
+      "code": "NOR6",
+      "number": 6,
+      "name": "Sander Berge",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR7",
+      "code": "NOR7",
+      "number": 7,
+      "name": "Patrick Berg",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR8",
+      "code": "NOR8",
+      "number": 8,
+      "name": "Erling Haaland",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR9",
+      "code": "NOR9",
+      "number": 9,
+      "name": "Antonio Nusa",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR10",
+      "code": "NOR10",
+      "number": 10,
+      "name": "Oscar Bobb",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "NOR11",
+      "code": "NOR11",
+      "number": 11,
+      "name": "Alexander Sørloth",
+      "team": "NOR",
+      "country": "Norway",
+      "isFoil": false
+    },
+    {
+      "id": "ARG0",
+      "code": "ARG0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": true
+    },
+    {
+      "id": "ARG1",
+      "code": "ARG1",
+      "number": 1,
+      "name": "Emiliano Martinez",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG2",
+      "code": "ARG2",
+      "number": 2,
+      "name": "Nahuel Molina",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG3",
+      "code": "ARG3",
+      "number": 3,
+      "name": "Cristian Romero",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG4",
+      "code": "ARG4",
+      "number": 4,
+      "name": "Nicolas Otamendi",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG5",
+      "code": "ARG5",
+      "number": 5,
+      "name": "Enzo Fernandez",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG6",
+      "code": "ARG6",
+      "number": 6,
+      "name": "Alexis Mac Allister",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG7",
+      "code": "ARG7",
+      "number": 7,
+      "name": "Rodrigo De Paul",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG8",
+      "code": "ARG8",
+      "number": 8,
+      "name": "Julian Alvarez",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG9",
+      "code": "ARG9",
+      "number": 9,
+      "name": "Lionel Messi",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG10",
+      "code": "ARG10",
+      "number": 10,
+      "name": "Giuliano Simeone",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ARG11",
+      "code": "ARG11",
+      "number": 11,
+      "name": "Lautaro Martinez",
+      "team": "ARG",
+      "country": "Argentina",
+      "isFoil": false
+    },
+    {
+      "id": "ALG0",
+      "code": "ALG0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": true
+    },
+    {
+      "id": "ALG1",
+      "code": "ALG1",
+      "number": 1,
+      "name": "Alexis Guendouz",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG2",
+      "code": "ALG2",
+      "number": 2,
+      "name": "Rayan Aït-Nouri",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG3",
+      "code": "ALG3",
+      "number": 3,
+      "name": "Ramy Bensebaini",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG4",
+      "code": "ALG4",
+      "number": 4,
+      "name": "Youcef Atal",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG5",
+      "code": "ALG5",
+      "number": 5,
+      "name": "Aïssa Mandi",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG6",
+      "code": "ALG6",
+      "number": 6,
+      "name": "Nabil Bentalab",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG7",
+      "code": "ALG7",
+      "number": 7,
+      "name": "Riyad Mahrez",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG8",
+      "code": "ALG8",
+      "number": 8,
+      "name": "Said Benrahma",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG9",
+      "code": "ALG9",
+      "number": 9,
+      "name": "Amine Gouiri",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG10",
+      "code": "ALG10",
+      "number": 10,
+      "name": "Mohammed Amoura",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "ALG11",
+      "code": "ALG11",
+      "number": 11,
+      "name": "Baghdad Bounedjah",
+      "team": "ALG",
+      "country": "Algeria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT0",
+      "code": "AUT0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": true
+    },
+    {
+      "id": "AUT1",
+      "code": "AUT1",
+      "number": 1,
+      "name": "Alexander Schlager",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT2",
+      "code": "AUT2",
+      "number": 2,
+      "name": "David Alaba",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT3",
+      "code": "AUT3",
+      "number": 3,
+      "name": "Kevin Danso",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT4",
+      "code": "AUT4",
+      "number": 4,
+      "name": "Philipp Lienhart",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT5",
+      "code": "AUT5",
+      "number": 5,
+      "name": "Konrad Laimer",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT6",
+      "code": "AUT6",
+      "number": 6,
+      "name": "Nicolas Seiwald",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT7",
+      "code": "AUT7",
+      "number": 7,
+      "name": "Marcel Sabitzer",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT8",
+      "code": "AUT8",
+      "number": 8,
+      "name": "Florian Grillitsch",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT9",
+      "code": "AUT9",
+      "number": 9,
+      "name": "Marko Arnautović",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT10",
+      "code": "AUT10",
+      "number": 10,
+      "name": "Christoph Baumgartner",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "AUT11",
+      "code": "AUT11",
+      "number": 11,
+      "name": "Michael Gregoritsch",
+      "team": "AUT",
+      "country": "Austria",
+      "isFoil": false
+    },
+    {
+      "id": "JOR0",
+      "code": "JOR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": true
+    },
+    {
+      "id": "JOR1",
+      "code": "JOR1",
+      "number": 1,
+      "name": "Yazeed Abulaila",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR2",
+      "code": "JOR2",
+      "number": 2,
+      "name": "Mohammad Abu Hashish",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR3",
+      "code": "JOR3",
+      "number": 3,
+      "name": "Yazan Al-Arab",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR4",
+      "code": "JOR4",
+      "number": 4,
+      "name": "Abdallah Nasib",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR5",
+      "code": "JOR5",
+      "number": 5,
+      "name": "Ibrahim Saadeh",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR6",
+      "code": "JOR6",
+      "number": 6,
+      "name": "Nizar Al-Rashdan",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR7",
+      "code": "JOR7",
+      "number": 7,
+      "name": "Noor Al-Rawabdeh",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR8",
+      "code": "JOR8",
+      "number": 8,
+      "name": "Yazan Al-Naimat",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR9",
+      "code": "JOR9",
+      "number": 9,
+      "name": "Musa Al-Taamari",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR10",
+      "code": "JOR10",
+      "number": 10,
+      "name": "Mahmoud Al-Mardi",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "JOR11",
+      "code": "JOR11",
+      "number": 11,
+      "name": "Ali Olwan",
+      "team": "JOR",
+      "country": "Jordan",
+      "isFoil": false
+    },
+    {
+      "id": "POR0",
+      "code": "POR0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": true
+    },
+    {
+      "id": "POR1",
+      "code": "POR1",
+      "number": 1,
+      "name": "Diogo Costa",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR2",
+      "code": "POR2",
+      "number": 2,
+      "name": "Ruben Dias",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR3",
+      "code": "POR3",
+      "number": 3,
+      "name": "Nuno Mendes",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR4",
+      "code": "POR4",
+      "number": 4,
+      "name": "Vitinha",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR5",
+      "code": "POR5",
+      "number": 5,
+      "name": "Bernardo Silva",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR6",
+      "code": "POR6",
+      "number": 6,
+      "name": "Bruno Fernandes",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR7",
+      "code": "POR7",
+      "number": 7,
+      "name": "Ruben Neves",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR8",
+      "code": "POR8",
+      "number": 8,
+      "name": "Cristiano Ronaldo",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR9",
+      "code": "POR9",
+      "number": 9,
+      "name": "João Felix",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR10",
+      "code": "POR10",
+      "number": 10,
+      "name": "Pedro Neto",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "POR11",
+      "code": "POR11",
+      "number": 11,
+      "name": "Rafael Leão",
+      "team": "POR",
+      "country": "Portugal",
+      "isFoil": false
+    },
+    {
+      "id": "COD0",
+      "code": "COD0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": true
+    },
+    {
+      "id": "COD1",
+      "code": "COD1",
+      "number": 1,
+      "name": "Lionel Mpasi",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD2",
+      "code": "COD2",
+      "number": 2,
+      "name": "Aaron Wan-Bissaka",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD3",
+      "code": "COD3",
+      "number": 3,
+      "name": "Axel Tuanzebe",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD4",
+      "code": "COD4",
+      "number": 4,
+      "name": "Arthur Masuaku",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD5",
+      "code": "COD5",
+      "number": 5,
+      "name": "Chancel Mbemba",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD6",
+      "code": "COD6",
+      "number": 6,
+      "name": "Ngal'ayel Mukau",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD7",
+      "code": "COD7",
+      "number": 7,
+      "name": "Samuel Moutoussamy",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD8",
+      "code": "COD8",
+      "number": 8,
+      "name": "Noah Sadiki",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD9",
+      "code": "COD9",
+      "number": 9,
+      "name": "Théo Bongonda",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD10",
+      "code": "COD10",
+      "number": 10,
+      "name": "Yoane Wissa",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "COD11",
+      "code": "COD11",
+      "number": 11,
+      "name": "Cédric Bakambu",
+      "team": "COD",
+      "country": "Congo DR",
+      "isFoil": false
+    },
+    {
+      "id": "UZB0",
+      "code": "UZB0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": true
+    },
+    {
+      "id": "UZB1",
+      "code": "UZB1",
+      "number": 1,
+      "name": "Utkir Yusupov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB2",
+      "code": "UZB2",
+      "number": 2,
+      "name": "Abdukodir Khusanov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB3",
+      "code": "UZB3",
+      "number": 3,
+      "name": "Farrukh Sayfiev",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB4",
+      "code": "UZB4",
+      "number": 4,
+      "name": "Sherzod Nasrullaev",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB5",
+      "code": "UZB5",
+      "number": 5,
+      "name": "Husniddin Aliqulov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB6",
+      "code": "UZB6",
+      "number": 6,
+      "name": "Rustam Ahurmatov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB7",
+      "code": "UZB7",
+      "number": 7,
+      "name": "Khojiakbar Alijonov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB8",
+      "code": "UZB8",
+      "number": 8,
+      "name": "Odiljon Hamrobekov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB9",
+      "code": "UZB9",
+      "number": 9,
+      "name": "Otabek Shukurov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB10",
+      "code": "UZB10",
+      "number": 10,
+      "name": "Eldor Shomurodov",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "UZB11",
+      "code": "UZB11",
+      "number": 11,
+      "name": "Abbosbek Fayzullaev",
+      "team": "UZB",
+      "country": "Uzbekistan",
+      "isFoil": false
+    },
+    {
+      "id": "COL0",
+      "code": "COL0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": true
+    },
+    {
+      "id": "COL1",
+      "code": "COL1",
+      "number": 1,
+      "name": "Camilo Vargas",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL2",
+      "code": "COL2",
+      "number": 2,
+      "name": "Davinson Sanchez",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL3",
+      "code": "COL3",
+      "number": 3,
+      "name": "Yerry Mina",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL4",
+      "code": "COL4",
+      "number": 4,
+      "name": "Daniel Munoz",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL5",
+      "code": "COL5",
+      "number": 5,
+      "name": "James Rodriguez",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL6",
+      "code": "COL6",
+      "number": 6,
+      "name": "Jefferson Lerma",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL7",
+      "code": "COL7",
+      "number": 7,
+      "name": "Richard Rios",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL8",
+      "code": "COL8",
+      "number": 8,
+      "name": "Juan Fernando Quintero",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL9",
+      "code": "COL9",
+      "number": 9,
+      "name": "Luis Diaz",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL10",
+      "code": "COL10",
+      "number": 10,
+      "name": "Jhon Arias",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "COL11",
+      "code": "COL11",
+      "number": 11,
+      "name": "Luis Suárez",
+      "team": "COL",
+      "country": "Colombia",
+      "isFoil": false
+    },
+    {
+      "id": "ENG0",
+      "code": "ENG0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": true
+    },
+    {
+      "id": "ENG1",
+      "code": "ENG1",
+      "number": 1,
+      "name": "Jordan Pickford",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG2",
+      "code": "ENG2",
+      "number": 2,
+      "name": "Reece James",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG3",
+      "code": "ENG3",
+      "number": 3,
+      "name": "John Stones",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG4",
+      "code": "ENG4",
+      "number": 4,
+      "name": "Jude Bellingham",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG5",
+      "code": "ENG5",
+      "number": 5,
+      "name": "Declan Rice",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG6",
+      "code": "ENG6",
+      "number": 6,
+      "name": "Jordan Henderson",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG7",
+      "code": "ENG7",
+      "number": 7,
+      "name": "Phil Foden",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG8",
+      "code": "ENG8",
+      "number": 8,
+      "name": "Harry Kane",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG9",
+      "code": "ENG9",
+      "number": 9,
+      "name": "Bukayo Saka",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG10",
+      "code": "ENG10",
+      "number": 10,
+      "name": "Cole Palmer",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "ENG11",
+      "code": "ENG11",
+      "number": 11,
+      "name": "Marcus Rashford",
+      "team": "ENG",
+      "country": "England",
+      "isFoil": false
+    },
+    {
+      "id": "CRO0",
+      "code": "CRO0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": true
+    },
+    {
+      "id": "CRO1",
+      "code": "CRO1",
+      "number": 1,
+      "name": "Dominik Livakovic",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO2",
+      "code": "CRO2",
+      "number": 2,
+      "name": "Duje Caleta-Car",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO3",
+      "code": "CRO3",
+      "number": 3,
+      "name": "Josko Gvardiol",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO4",
+      "code": "CRO4",
+      "number": 4,
+      "name": "Josip Stanisic",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO5",
+      "code": "CRO5",
+      "number": 5,
+      "name": "Ivan Perisic",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO6",
+      "code": "CRO6",
+      "number": 6,
+      "name": "Luka Modric",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO7",
+      "code": "CRO7",
+      "number": 7,
+      "name": "Mateo Kovacic",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO8",
+      "code": "CRO8",
+      "number": 8,
+      "name": "Lovro Majer",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO9",
+      "code": "CRO9",
+      "number": 9,
+      "name": "Mario Pasalic",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO10",
+      "code": "CRO10",
+      "number": 10,
+      "name": "Ante Budimir",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "CRO11",
+      "code": "CRO11",
+      "number": 11,
+      "name": "Andrej Kramaric",
+      "team": "CRO",
+      "country": "Croatia",
+      "isFoil": false
+    },
+    {
+      "id": "GHA0",
+      "code": "GHA0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": true
+    },
+    {
+      "id": "GHA1",
+      "code": "GHA1",
+      "number": 1,
+      "name": "Lawrence Ati-Zigi",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA2",
+      "code": "GHA2",
+      "number": 2,
+      "name": "Alidu Seidu",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA3",
+      "code": "GHA3",
+      "number": 3,
+      "name": "Alexander Djiku",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA4",
+      "code": "GHA4",
+      "number": 4,
+      "name": "Gideon Mensah",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA5",
+      "code": "GHA5",
+      "number": 5,
+      "name": "Caleb Yirenkyi",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA6",
+      "code": "GHA6",
+      "number": 6,
+      "name": "Thomas Partey",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA7",
+      "code": "GHA7",
+      "number": 7,
+      "name": "Abdul Issahaku Fatawu",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA8",
+      "code": "GHA8",
+      "number": 8,
+      "name": "Mohammed Kudus",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA9",
+      "code": "GHA9",
+      "number": 9,
+      "name": "Kamaldeen Sulemana",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA10",
+      "code": "GHA10",
+      "number": 10,
+      "name": "Jordan Ayew",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "GHA11",
+      "code": "GHA11",
+      "number": 11,
+      "name": "Antoine Semenyo",
+      "team": "GHA",
+      "country": "Ghana",
+      "isFoil": false
+    },
+    {
+      "id": "PAN0",
+      "code": "PAN0",
+      "number": 0,
+      "name": "Team Logo",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": true
+    },
+    {
+      "id": "PAN1",
+      "code": "PAN1",
+      "number": 1,
+      "name": "Orlando Mosquera",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN2",
+      "code": "PAN2",
+      "number": 2,
+      "name": "Michael Amir Murillo",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN3",
+      "code": "PAN3",
+      "number": 3,
+      "name": "Andres Andrade",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN4",
+      "code": "PAN4",
+      "number": 4,
+      "name": "Fidel Escobar",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN5",
+      "code": "PAN5",
+      "number": 5,
+      "name": "Aníbal Godoy",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN6",
+      "code": "PAN6",
+      "number": 6,
+      "name": "Cristian Martinez",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN7",
+      "code": "PAN7",
+      "number": 7,
+      "name": "Adalberto Carrasquilla",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN8",
+      "code": "PAN8",
+      "number": 8,
+      "name": "Édgar Bárcenas",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN9",
+      "code": "PAN9",
+      "number": 9,
+      "name": "Jose Fajardo",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN10",
+      "code": "PAN10",
+      "number": 10,
+      "name": "Ismael Díaz",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    },
+    {
+      "id": "PAN11",
+      "code": "PAN11",
+      "number": 11,
+      "name": "Jose Luiz Rodriguez",
+      "team": "PAN",
+      "country": "Panama",
+      "isFoil": false
+    }
+  ]
+}

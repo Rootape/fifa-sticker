@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# user data (local-only persistence — see BRIEFING.md)
+/data/*.json
+/data/*.json.tmp
+
+# coisas ae
+.claude
+BRIEFING.md
+CLAUDE.md
