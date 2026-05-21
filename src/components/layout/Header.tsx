@@ -9,7 +9,6 @@ const NAV_LINKS = [
   { href: "/duplicates", label: "Repetidas" },
   { href: "/friends", label: "Amigos" },
   { href: "/search", label: "Buscar" },
-  { href: "/catalog", label: "Catálogo" },
 ];
 
 function isActive(pathname: string, href: string) {

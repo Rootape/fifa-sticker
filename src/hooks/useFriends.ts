@@ -1,46 +1,30 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import type { Friend, FriendSticker } from "@/types";
 
-const ENDPOINT = "/api/friends";
+const STORAGE_KEY = "fifa:friends";
 
 export function useFriends() {
   const [friends, setFriends] = useState<Friend[]>([]);
   const [loaded, setLoaded] = useState(false);
-  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    let cancelled = false;
-    fetch(ENDPOINT)
-      .then((r) => r.json())
-      .then((data: Friend[]) => {
-        if (!cancelled) {
-          setFriends(Array.isArray(data) ? data : []);
-          setLoaded(true);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setLoaded(true);
-      });
-    return () => {
-      cancelled = true;
-    };
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const data = JSON.parse(raw) as Friend[];
+        if (Array.isArray(data)) setFriends(data);
+      }
+    } catch {}
+    setLoaded(true);
   }, []);
 
   useEffect(() => {
     if (!loaded) return;
-    if (debounceRef.current) clearTimeout(debounceRef.current);
-    debounceRef.current = setTimeout(() => {
-      fetch(ENDPOINT, {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(friends),
-      }).catch(() => {});
-    }, 300);
-    return () => {
-      if (debounceRef.current) clearTimeout(debounceRef.current);
-    };
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(friends));
+    } catch {}
   }, [friends, loaded]);
 
   const addFriend = useCallback((name: string): Friend => {

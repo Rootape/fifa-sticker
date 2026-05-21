@@ -1,46 +1,30 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import type { CollectionEntry } from "@/types";
 
-const ENDPOINT = "/api/collection";
+const STORAGE_KEY = "fifa:collection";
 
 export function useCollection() {
   const [entries, setEntries] = useState<CollectionEntry[]>([]);
   const [loaded, setLoaded] = useState(false);
-  const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    let cancelled = false;
-    fetch(ENDPOINT)
-      .then((r) => r.json())
-      .then((data: CollectionEntry[]) => {
-        if (!cancelled) {
-          setEntries(Array.isArray(data) ? data : []);
-          setLoaded(true);
-        }
-      })
-      .catch(() => {
-        if (!cancelled) setLoaded(true);
-      });
-    return () => {
-      cancelled = true;
-    };
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const data = JSON.parse(raw) as CollectionEntry[];
+        if (Array.isArray(data)) setEntries(data);
+      }
+    } catch {}
+    setLoaded(true);
   }, []);
 
   useEffect(() => {
     if (!loaded) return;
-    if (debounceRef.current) clearTimeout(debounceRef.current);
-    debounceRef.current = setTimeout(() => {
-      fetch(ENDPOINT, {
-        method: "PUT",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(entries),
-      }).catch(() => {});
-    }, 300);
-    return () => {
-      if (debounceRef.current) clearTimeout(debounceRef.current);
-    };
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
+    } catch {}
   }, [entries, loaded]);
 
   const getEntry = useCallback(

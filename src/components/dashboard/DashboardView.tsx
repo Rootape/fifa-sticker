@@ -1,7 +1,6 @@
 "use client";
 
 import { useMemo } from "react";
-import Link from "next/link";
 import type { StickersData } from "@/types";
 import { useCollection } from "@/hooks/useCollection";
 import { TeamProgressCard } from "@/components/team/TeamProgressCard";
@@ -100,12 +99,6 @@ export function DashboardView({ data }: Props) {
             <span>
               {stats.completeTeams} de {stats.perTeam.length} completas
             </span>
-            <Link
-              href="/catalog"
-              className="text-[color:var(--color-text-muted)] hover:text-[color:var(--color-text)] underline-offset-2 hover:underline"
-            >
-              Gerenciar
-            </Link>
           </div>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
